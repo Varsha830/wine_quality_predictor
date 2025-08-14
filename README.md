@@ -35,7 +35,4 @@
 </ol>
 
 <h2>📊 Model Accuracy</h2>
-<p>The trained model achieved an accuracy of <strong>XX%</strong> on the test data.</p>
-
-<h2>📜 License</h2>
-<p>This project is licensed under the MIT License.</p>
+<p>The trained model achieved an accuracy of <strong>70%</strong> on the test data.</p>
